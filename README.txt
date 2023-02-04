@@ -1,0 +1,1 @@
+Solution for stepik task 3.6.10
